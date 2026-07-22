@@ -143,18 +143,6 @@ Expected Response:
 
 ---
 
-## 📸 Project Screenshots
-
-Create a folder named **screenshots** and include images of:
-
-* AWS Lambda Function
-* Amazon API Gateway
-* Successful API Response
-* Amazon CloudWatch Logs (Optional)
-
-These screenshots provide deployment proof and demonstrate successful execution.
-
----
 
 ## 🎯 Learning Outcomes
 
